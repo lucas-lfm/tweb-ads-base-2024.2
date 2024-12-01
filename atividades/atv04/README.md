@@ -27,7 +27,7 @@
 - **Instruções e requisitos básicos para avaliação:**
 
     - Defina as regras CSS necessárias para aplicar os requisitos tipográficos básicos apresentados na imagem acima;
-    - Utiliza a biblioteca de ícones [Bootstrap Icons](https://icons.getbootstrap.com/), ou outra de sua preferência, para a inclusão dos ícones necessários;
+    - Utilize a biblioteca de ícones [Bootstrap Icons](https://icons.getbootstrap.com/), ou outra de sua preferência, para a inclusão dos ícones necessários;
     - Utilize o site [Google Fonts](https://fonts.google.com/) para aplicar fontes que não são padrão do sistema (no exemplo, Fira Code e Montserrat são utilizadas);
         - Veja [esse vídeo](https://youtu.be/FLuQonci9wU?feature=shared) do canal Curso em Vídeo (Gustavo Guanabara), caso não se lembre como pegar fontes no Google Fonts.
     - Utilize o código base disponível neste repositório, [nesse link](./codigo-base/). (o código base também está disponível no CodePen, [nesse link](https://codepen.io/prof_lucasmendes/pen/GgKJrWg);
