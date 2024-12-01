@@ -15,7 +15,7 @@
 - A atividade consiste em construir uma página Web simples de uma receita, como exemplificado na imagem abaixo:
 
 <div align="center">
-    <img src="./img-instrucoes/reultado.png">
+    <img src="./img-instrucoes/resultado.png">
 </div>
 
 - Na imagem abaixo estão indicados os requisitos tipográficos básicos que deverão ser aplicados na resolução da atividade:
