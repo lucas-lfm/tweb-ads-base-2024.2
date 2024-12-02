@@ -30,7 +30,7 @@
     - Utilize a biblioteca de ícones [Bootstrap Icons](https://icons.getbootstrap.com/), ou outra de sua preferência, para a inclusão dos ícones necessários;
     - Utilize o site [Google Fonts](https://fonts.google.com/) para aplicar fontes que não são padrão do sistema (no exemplo, Fira Code e Montserrat são utilizadas);
         - Veja [esse vídeo](https://youtu.be/FLuQonci9wU?feature=shared) do canal Curso em Vídeo (Gustavo Guanabara), caso não se lembre como pegar fontes no Google Fonts.
-    - Utilize o código base disponível neste repositório, [nesse link](./codigo-base/). (o código base também está disponível no CodePen, [nesse link](https://codepen.io/prof_lucasmendes/pen/GgKJrWg);
+    - Utilize o código base disponível neste repositório, [nesse link](./codigo-base/). (o código base também está disponível no CodePen, [nesse link](https://codepen.io/prof_lucasmendes/pen/GgKJrWg));
 
     - No código base HTML, temos a seguinte estrutura no corpo (body) da página:
         ![](./img-instrucoes/code-html.png)
@@ -43,5 +43,5 @@
     - No código base CSS, temos as seguintes regras:
         ![](./img-instrucoes/code-css.png)
       
-    - A primeira regra, aplicada ao elemento `body`, define um `display` igual a `flex` (veremos flexbox mais adiante na disciplina), e define ainda a propriedade `justify-content` (também do flexbox) igual a `center`, centralizando os elmentos horizontalmente;
+    - A primeira regra, aplicada ao elemento `body`, define um `display` igual a `flex` (veremos flexbox mais adiante na disciplina), e define ainda a propriedade `justify-content` (também do flexbox) igual a `center`, centralizando os elementos horizontalmente;
     - A segunda regra, aplicada ao elemento `.container`: define uma largura máxima (`max-width`) de 1024px; aplica um espaçamento interno da borda para o conteúdo (`padding`) de `1rem`; define também um `display` igual a `flex`, fazendo com que as divs internas (`#imagem-receita e #receita`) sejam dispostas lado a lado; e define um espaçamento (`gap`) entre as divs `#imagem-receita` e `#receita` igual a `2rem`;
