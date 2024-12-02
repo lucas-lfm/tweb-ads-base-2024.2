@@ -3,8 +3,8 @@
 > Nesta atividade vamos trabalhar os conceitos básicos de tipografia na Web e inclusão de imagens em páginas Web.
 
 - [Acesse aqui](./../../materiais/slides/) os materiais trabalhados em aula.
-- [Acese aqui](https://www.w3schools.com/) o site W3School.
-- [Acese aqui](https://developer.mozilla.org/pt-BR/) o site MDN Web Docs.
+- [Acesse aqui](https://www.w3schools.com/) o site W3School.
+- [Acesse aqui](https://developer.mozilla.org/pt-BR/) o site MDN Web Docs.
 - [Acesse aqui](https://codepen.io/collection/gPpavo) a coleção de exemplos práticos trabalhados em aula e disponibilizados no CodePen.
 
 <a id="inst"></a>
