@@ -24,7 +24,7 @@
     <img src="./img-instrucoes/resultado.png">
 </div>
 
-- Você deve usar tags semânticas para a definição dos elementos de layout (`header`, `nav`, `section` e `footer`, pelo menos);
+- Você deve usar tags semânticas para a definição dos elementos de layout (`header`, `nav`, `main`, `section` e `footer`, pelo menos);
     - Acesse [aqui](./../../materiais/slides/tweb-04-avancando-html.pdf) o material sobre HTML semântico
 
 - Define adequadamente os espaçamentos e tamanho dos elementos, usando as propriedades do Box Model CSS
