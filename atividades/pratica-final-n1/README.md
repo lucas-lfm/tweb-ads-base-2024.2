@@ -19,7 +19,7 @@
 - A atividade consiste em replicar o resultado apresentado na imagem abaixo, que traz um exemplo de página pessoal para organização dos estudos.
 
 <div align="center">
-    <img src="./img-instrucoes/resultados.png">
+    <img src="./img-instrucoes/resultado.png">
 </div>
 
 - Você deve usar tags semânticas para a definição dos elementos de layout (`header`, `nav`, `main`, `section` e `footer`, pelo menos);
