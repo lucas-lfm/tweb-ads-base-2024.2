@@ -11,8 +11,6 @@
 
 [Acesse aqui](./../../materiais/slides/) o material de estudos da disciplina para revisar/estudar os conceitos que serão abordados nesta prática.
 
-
-
 <a id="inst"></a>
 ## Instruções para Realização da Atividade
 
