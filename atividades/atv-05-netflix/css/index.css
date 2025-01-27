@@ -1,0 +1,39 @@
+:root {
+    --title-color: #f6f6f6;
+    --bg-color: #0d0d0d;
+    --gray-color: #808080;
+    --text-color: #808080;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    color: var(--title-color);
+    font-weight: normal;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid red;
+    max-width: 1024px;
+}
+
+img {
+    width: 200px;
+}
