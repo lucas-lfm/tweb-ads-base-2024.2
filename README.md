@@ -37,13 +37,14 @@
   - Validador de HTML: https://validator.w3.org/
   - Validador de CSS: https://jigsaw.w3.org/css-validator/
 
-### 🖼️ Sites e ferramentas úteis para CSS e Web Design:
+### 🎨 Sites e ferramentas úteis para CSS e Web Design:
 
   - Site para informações sobre cores: https://corhexa.com/
   - Site para gerar paletas de cores: https://coolors.co/
   - Site para gerar gradientes CSS: https://cssgradient.io/
   - Site com exemplos de recursos CSS: https://www.cssportal.com/
   - Site com diversos exemplos compartilhados: https://codepen.io/trending
+  - Site para padrões de backgrounds: https://heropatterns.com/
 
 ### 🕹️ Jogos para aprender HTML e CSS:
 
@@ -58,3 +59,17 @@
 
   - Site UX Collective: https://brasil.uxdesign.cc/
   - Site DPW: https://desenvolvimentoparaweb.com/
+  - Componentes e elementos de UI: https://uiverse.io/
+  - Portal de recursos educacionais Uxcel: https://uxcel.com
+  - UI Gradients: https://uigradients.com
+
+### 🖼️ Banco de Imagens Gratuitas:
+
+  - Unsplash: https://unsplash.com/pt-br
+  - Freepik: https://br.freepik.com/
+  - Pexels: https://www.pexels.com/pt-br/
+  - Pixabay: https://www.pexels.com/pt-br/
+  - StockSnap: https://stocksnap.io/
+  - unDraw: https://undraw.co/
+  - Blush: https://blush.design/pt
+  - Storyset: https://storyset.com/
