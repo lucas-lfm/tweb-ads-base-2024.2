@@ -12,7 +12,7 @@
 
 - Você deve tentar replicar o resultado abaixo:
     > - ✅ Não precisa ficar exatamente igual. Você tem a liberdade de repensar o design e propor mudanças.
-    > - 🚨 Mas fica ligado, que ao final deste documento, eu especifico requisitos que devem ser sequidos.
+    > - 🚨 Mas fica ligado, que ao final deste documento eu especifico requisitos que devem ser sequidos.
 
 ---
 
@@ -45,7 +45,7 @@
         - https://www.tiktok.com/@prof_lucasmendes/video/7457759870033431813
         - https://www.tiktok.com/@prof_lucasmendes/video/7461793694002203909
 
-- Defina uma largura máxima para os contêineres (área de navegação e seção inicial) de 1.024px, por exemplo (pode testar outro tamanho, como ).
+- Defina uma largura máxima para os contêineres (área de navegação e seção inicial) de 1.024px, por exemplo (pode testar outro tamanho).
 
 - Utilize alguma ferramenta de seleção de cores para auxilixar na identificação das cores utilizadas. Por exemplo, a ferramenta [Adobe Color](https://color.adobe.com/pt/create/image).
 
