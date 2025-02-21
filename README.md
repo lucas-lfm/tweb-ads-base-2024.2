@@ -63,6 +63,7 @@
   - Portal de recursos educacionais Uxcel: https://uxcel.com
   - UI Gradients: https://uigradients.com
   - Inspirações para Landing Pages: https://www.lapa.ninja/
+  - Inspirações para componentes: https://www.landingfolio.com/
 
 ### 🖼️ Banco de Imagens Gratuitas:
 
