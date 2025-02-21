@@ -45,6 +45,8 @@
   - Site com exemplos de recursos CSS: https://www.cssportal.com/
   - Site com diversos exemplos compartilhados: https://codepen.io/trending
   - Site para padrões de backgrounds: https://heropatterns.com/
+  - Gerador de imagem placeholder: https://placehold.jp/en.html
+  - Gerador de imagem aleatória: https://picsum.photos/
 
 ### 🕹️ Jogos para aprender HTML e CSS:
 
