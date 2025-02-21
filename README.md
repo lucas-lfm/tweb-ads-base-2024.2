@@ -62,6 +62,7 @@
   - Componentes e elementos de UI: https://uiverse.io/
   - Portal de recursos educacionais Uxcel: https://uxcel.com
   - UI Gradients: https://uigradients.com
+  - Inspirações para Landing Pages: https://www.lapa.ninja/
 
 ### 🖼️ Banco de Imagens Gratuitas:
 
