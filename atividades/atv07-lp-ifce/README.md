@@ -52,7 +52,7 @@
 - Trabalhe com as propriedades de posicionamento, box-model e flexbox aprendidas em aula para definir as posições, espaçamentos e distribuição dos elementos do layout.
     - Além do material sobre flexbox da disciplina, disponibilizado no Classroom, aqui está um conteúdo muito bom sobre o assunto: https://origamid.com/projetos/flexbox-guia-completo/
 
-- Vamos falar de tipografia?
+- **Vamos falar de tipografia?**
     - Você deve definir uma hierarquia tipográfica adequada e harmônica, como no exemplo apresentado.
     - O alinhamento de textos mais longos na web geralmente é à esquerda (como já comentamos em aula).
     - Cuidado com os espaçamentos entre linha (`line-height`). Definir um espaçamento adequado, a depender do tamanho da fonte, é ideal para ter uma "área de respiro" no texto, ou para não deixar as linhas muito afastadas (em fontes maiores).
