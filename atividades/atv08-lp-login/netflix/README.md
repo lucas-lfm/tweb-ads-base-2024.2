@@ -14,7 +14,7 @@
 
 - Vídeo demonstrativo: [acesse aqui](https://drive.google.com/file/d/1afeqeQgperxUlwBGGfcD5ffzLPmn9EjY/view?usp=sharing)
 
-- Imagens para utilizadas na página: [acesse aqui](./img/)
+- Imagens utilizadas na página: [acesse aqui](./img/)
 
 ---
 
