@@ -77,3 +77,10 @@
   - unDraw: https://undraw.co/
   - Blush: https://blush.design/pt
   - Storyset: https://storyset.com/
+
+### 🔣 Bibliotecas de Ícones
+
+  - Bootstrap Icons: https://icons.getbootstrap.com/
+  - Material Icons (Google Fonts): https://fonts.google.com/icons
+  - Font Awesome: https://fontawesome.com/
+  - Hero Icons: https://heroicons.com/
