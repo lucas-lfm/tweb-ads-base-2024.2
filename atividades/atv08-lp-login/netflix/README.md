@@ -28,7 +28,7 @@
   - Seção de **vantagens**: Exemplos de como assistir na TV, no celular, no tablet etc.
   - Seção para **perfis infantis**.
   - Seçao para informações de como **assistir offline**.
-  - Seção de **FAQ (Perguntas Frequentes)**: Com itens que podem ser **expandidos/recolhidos** (o nome desse tipo de elmento é *accordion*). 
+  - Seção de **FAQ (Perguntas Frequentes)**: Com itens que podem ser **expandidos/recolhidos** (o nome desse tipo de elemento é *accordion*). 
   - Rodapé com **links úteis** (ex.: Perguntas frequentes, Ajuda, Central de Privacidade, etc.).
 
 - **Formulário**:
