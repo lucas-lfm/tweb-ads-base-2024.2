@@ -1,4 +1,4 @@
-# Atividade Prática: Replicando a Página Inicial da Netflix
+# Atividade Prática: Replicando as Páginas Inicial e de Login de um Serviço de Stream
 
 > Nesta atividade, vamos colocar em prática vários conceitos trabalhados durante o semestre: **HTML semântico, box-model, flexbox, seletores CSS, transições, formulários, imagens, links, entre outros**. Seu desafio será **replicar** a página inicial de um serviço de stream e sua página de login.
 
