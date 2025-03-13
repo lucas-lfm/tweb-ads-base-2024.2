@@ -80,7 +80,7 @@ O resultado final deve estar o mais próximo possível do design projetado e epr
 
 - Implemente o projeto seguindo o princípio [***Mobile First***](https://blog.apiki.com/mobile-first-o-conceito-e-sua-aplicabilidade/), ou seja, inicie pelo projeto de design para dispositivos móveis, só depois faça os ajustes necessários para a versão desktop da página.
 
-- Ao acessar a página através de um dispositivo móvel, o usuário deve ter a possibilidade de expandir o menu de navegação através de um botãop do tipo "Hambúrguer". O menu de navegação expandido deve estar estilizado de forma harmônica com o design geral da página.
+- Ao acessar a página através de um dispositivo móvel, o usuário deve ter a possibilidade de expandir o menu de navegação através de um botão do tipo "Hambúrguer". O menu de navegação expandido deve estar estilizado de forma harmônica com o design geral da página.
 
 ### ▶️ Aimações 
 
@@ -95,7 +95,7 @@ O resultado final deve estar o mais próximo possível do design projetado e epr
     - Utilize um CSS reset, caso ache necessário ([CSS Reset do Meyer](https://meyerweb.com/eric/tools/css/reset/));
     - Separe os estilos CSS em arquivos distintos, caso o código fique muito extenso, ou organize de forma lógica o seu código em um único arquivo (use comentários se necessário).
 
-- Use variáveis CSS para definir estilos globais para a página a fim de manter uma consistência maior.
+- Use variáveis CSS para definir estilos globais para a página a fim de manter a consistência.
 
 - Mantenha o código bem indentado e com espaçamentos apropriados entre os blocos de código.
 
@@ -121,7 +121,7 @@ O resultado final deve estar o mais próximo possível do design projetado e epr
 
 ## ❓ Dúvidas
 
-- Qualquer dúvida que surgir, entre em contato comigo pelo Classroom (comentários particulares ou mesmo públicos no post da atividade).
+- Qualquer dúvida que surgir, entre em contato comigo pelo Classroom (pelos comentários particulares ou mesmo públicos no post da atividade).
     - Também pode entrar em contato pelo meu WhatsApp ou e-mail (lucas.mendes@ifce.edu.br).
 
 
