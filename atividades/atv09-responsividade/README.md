@@ -31,7 +31,7 @@ O resultado final deve estar o mais próximo possível do design projetado e epr
 
 - 👨‍💻 Projeto no Figma:
 
-    [Acesse aqui]() o projeto de design da página no Figma. Por lá você poderá consultar outras informações e detalhes sobre as escolhas de design do projeto.
+    [Acesse aqui](https://www.figma.com/design/BdJp4YtJBRQmNy0lWN00Tk/%5BMini-projeto%5D-SaaS-Landing-Page?node-id=6410-853&t=0n0OoWPzMespjII8-1) o projeto de design da página no Figma. Por lá você poderá consultar outras informações e detalhes sobre as escolhas de design do projeto.
 
 ## 🎯 Requisitos e Instruções
 
