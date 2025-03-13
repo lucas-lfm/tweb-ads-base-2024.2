@@ -1,0 +1,43 @@
+@layer theme {
+  footer {
+    font-size: 0.8rem;
+    color: #bbb;
+    font-weight: 700;
+  }
+}
+
+@layer layout {
+  footer {
+    display: flex;
+    gap: 32px;
+    flex-direction: column;
+    padding: 48px;
+    align-items: flex-start;
+  }
+}
+
+@layer components {  
+  footer {
+    & .phone-footer {
+      font-size: 1rem;
+    }
+
+    & .c-select-lang {
+      background-color: #bbbbbb55;
+    }
+
+    & .c-links {
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      gap: 32px;
+
+      & .c-links__list {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+      }
+    }
+  }
+}
