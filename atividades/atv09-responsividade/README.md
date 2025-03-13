@@ -5,6 +5,15 @@
 > - O principal objetivo é praticar/explorar **técnicas de web design responsivo**.
 > - Além disso, vocês irão aplicar diversos outros conhecimentos e técnicas aprendidos ao longo da disciplina.
 
+## 📚 Materiais de Apoio
+
+- Slides da disciplina: [Acesse aqui](./../../materiais/slides/)
+- Slide sobre responsividade e media queries: [Acesse aqui](./../../materiais/slides/tweb-08-css_responsive.pdf)
+- Conteúdos complementares sobre responsividade e media queries:
+    - [W3Schools](https://www.w3schools.com/css/css3_mediaqueries.asp)
+    - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+    - [Site Desenvolvimento Para Web - DPW](https://desenvolvimentoparaweb.com/tag/web-design-responsivo/)
+
 ## 🎨 Design do Projeto
 
 O resultado final deve estar o mais próximo possível do design projetado e epresentado a seguir.
