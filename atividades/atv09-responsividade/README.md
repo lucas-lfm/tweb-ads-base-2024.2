@@ -10,10 +10,10 @@
 O resultado final deve estar o mais próximo possível do design projetado e epresentado a seguir.
 
 - 🖥️ Página na versão **Desktop**:
-    <img src="./img-instrucoes/Desktop.png" style="display: block">
+<img src="./img-instrucoes/Desktop.png" style="display: block">
 
 - 📱 Página na versão **Mobile**:
-    <img src="./img-instrucoes/Mobile.png" style="display: block">
+<img src="./img-instrucoes/Mobile.png" style="display: block">
 
 ### Guia de Estilos
 
