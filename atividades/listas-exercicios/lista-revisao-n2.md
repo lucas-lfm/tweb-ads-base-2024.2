@@ -240,7 +240,7 @@ e) `align-items`
 
 ---
 
-### 25. Apresente um exemplo prático de como utilizar a propriedade grid-template-areas para definir um layout que contenha áreas para logo, navegação, conteúdo e rodapé, como na imagem abaixo. Explique cada parte da configuração e como ela contribui para a organização visual do site.
+### `Cara de Prova 😉 ▶️` 25. Apresente um exemplo prático de como utilizar a propriedade grid-template-areas para definir um layout que contenha áreas para logo, navegação, conteúdo e rodapé, como na imagem abaixo. Explique cada parte da configuração e como ela contribui para a organização visual do site.
 
 ![](./imgs-exercicios/grid-1.png)
 
